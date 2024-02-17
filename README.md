@@ -1,2 +1,2 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visits&color=0e75b6&style=flat" alt="gouldy-c" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gouldy-c.gouldy-c" />
 
