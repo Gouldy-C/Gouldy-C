@@ -18,6 +18,7 @@
   </a>
 </div>
 
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -25,5 +26,3 @@
     <img src="https://skillicons.dev/icons?i=react,js,ts,py,html,css,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,bootstrap,sass,firebase,postgres,mysql,mongodb,flask,docker" /><br>
 </div>
-<br/>
-<hr/>
