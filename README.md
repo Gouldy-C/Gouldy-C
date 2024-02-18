@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=flat" alt="gouldy-c" />
+<img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=for-the-badge" alt="" />
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" /> </h2>
 <h3 align="center">A passionate Software Developer from the U.S.</h3>
 <div align="center"> 
@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp
-  <a href="https://christiangouldy.com/" target="_blank" >
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  <a href="https://christiangouldy.com/" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </div>
 
 <br/>
