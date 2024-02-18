@@ -1,8 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=flat" alt="gouldy-c" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
-</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
 
 <h3 align="center">A passionate Software Developer from the U.S.</h3>
 
