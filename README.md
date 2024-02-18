@@ -1,8 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=for-the-badge" alt="" />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
 </div>
+
 <h3 align="center">A passionate Software Developer from the U.S.</h3>
+
 <div align="center"> 
   <a href="mailto:mail4clg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
