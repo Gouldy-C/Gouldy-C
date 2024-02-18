@@ -1,8 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=for-the-badge" alt="" />
 <div align="center">
-  <h2 align="center>
+  <div align="center>
     <img align="center src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
-  </h2>
+  </div>
 </div>
 
 <h3 align="center">A passionate Software Developer from the U.S.</h3>
