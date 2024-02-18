@@ -1,6 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=flat" alt="gouldy-c" />
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
+</div>
 
 <h3 align="center">A passionate Software Developer from the U.S.</h3>
 
@@ -15,8 +17,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
