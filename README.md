@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
 </div>
 
-<h3 align="center">🌟 Welcome to my GitHub!</h3>
-<h4 align="center">🚀 I'm a passionate developer on a mission to explore the vast universe of code, collaborate with fellow tech enthusiasts, and build innovative solutions that make a difference. Here, you'll find a collection of my projects ranging from Web Development to Mobile App Development. Whether you're here to dive into my code, share ideas, or embark on a collaborative journey, all are welcome! 🌈✨</h4>
+<h3 align="center">🌟 Welcome to my GitHub! 🚀</h3>
+<h4 align="center">I'm a passionate developer on a mission to explore the vast universe of code, collaborate with fellow tech enthusiasts, and build innovative solutions that make a difference. Here, you'll find a collection of my projects ranging from Web Development to Mobile App Development. Whether you're here to dive into my code, share ideas, or embark on a collaborative journey, all are welcome!</h4>
 
 <div align="center"> 
   <a href="mailto:mail4clg@gmail.com">
