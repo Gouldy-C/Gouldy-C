@@ -1,4 +1,4 @@
-<div align="right"> <img align="right" src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=for-the-badge" alt="" /></div>
+<h2 align="right"> <img src="https://komarev.com/ghpvc/?username=gouldy-c&label=Visitors&color=0e75b6&style=for-the-badge" alt="" /></h2>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Gouldy!;" />
